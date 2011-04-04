@@ -29,7 +29,7 @@ Author URI: http://alexeysmirnov.name/
 */
 
 global $myimage_plugin_url;
-$myimage_plugin_url = WP_PLUGIN_URL.'/gbuilder';
+$myimage_plugin_url = WP_PLUGIN_URL.'/flickr-on-steroids';
 
 if (!class_exists('myimage')) {
     require_once ('myimage.class.php');
