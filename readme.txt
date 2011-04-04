@@ -4,7 +4,7 @@ Donate link: http://www.directrelief.org/
 Tags: flickr,photo
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: 0.0.0.2
+Stable tag: 0.0.0.3
 
 AJAX-powered Flickr gallery builder with a neat user interface.
 
