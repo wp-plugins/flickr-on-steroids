@@ -29,6 +29,9 @@ Drop me an e-mail: alexey@gmail.com
 
 == Changelog ==
 
+= 0.0.0.3 =
+* Another bugfix
+
 = 0.0.0.2 =
 * Bugfix
 
