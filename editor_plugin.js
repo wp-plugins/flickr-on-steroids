@@ -18,7 +18,7 @@ tinymce.create('tinymce.plugins.fib_plugin', {
 	init : function(ed, url) {
 		ed.addButton('fib_button', {
 			title : 'fib_plugin.insertbutton',
-			image : '../wp-content/plugins/gbuilder/img/flickr.png',
+			image : '../wp-content/plugins/flickr-on-steroids/img/flickr.png',
 			onclick : function () {
 				edInsertMyImage_gui();
 			}
