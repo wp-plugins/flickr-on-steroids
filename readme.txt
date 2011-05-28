@@ -4,7 +4,7 @@ Donate link: http://www.directrelief.org/
 Tags: flickr,photo
 Requires at least: 2.0.2
 Tested up to: 3.1
-Stable tag: 0.0.0.9
+Stable tag: 0.0.1.0
 
 AJAX-powered Flickr gallery builder with a neat user interface.
 
@@ -28,6 +28,9 @@ No questions asked so far. Drop me an e-mail: alexey@gmail.com
 Drop me an e-mail: alexey@gmail.com
 
 == Changelog ==
+
+= 0.0.1.0 =
+Trying to change current version
 
 = 0.0.0.9 =
 Fixes bug in Flickr username lookup. Critical update!
@@ -58,6 +61,9 @@ Fixes bug in Flickr username lookup. Critical update!
 
 
 == Upgrade Notice ==
+
+= 0.0.1.0 =
+Trying to change current version
 
 = 0.0.0.9 =
 Fixes bug in Flickr username lookup. Critical update!
