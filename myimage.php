@@ -3,7 +3,7 @@
 Plugin Name: Flickr on Steroids
 Plugin URI: http://www.youtube.com/watch?v=RPqHqRmo-rs
 Description: AJAX-powered Flickr gallery builder with a neat user interface. You can select the images you would like to include in a gallery which is embedded to your post after you publish it. Very flexible and easy to use!
-Version: 0.0.0.1
+Version: 0.0.1.1
 Author: Alexey Smirnov
 Author URI: http://alexeysmirnov.name/
 */
